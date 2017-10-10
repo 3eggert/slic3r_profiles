@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+Makefile
+unbundle.py
+Slic3r_config_bundle.ini
